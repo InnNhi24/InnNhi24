@@ -9,8 +9,11 @@
 - 📫 **How to reach me:** ynh.almira@gmail.com
 - 😄 **Pronouns:** Almira
 - ⚡ **Fun fact:** .....
+<!-- Heart Beat Repo View -->
 
-[![](https://visitcount.itsvg.in/api?id=InnNhi24&icon=0&color=5)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://github.com/InnNhi24/InnNhi24/blob/images/beating_heart.gif?raw=true" alt="Beating Heart" width="900"/>
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=InnNhi24&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
@@ -40,5 +43,6 @@
 
 ---
 
+[![](https://visitcount.itsvg.in/api?id=InnNhi24&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
